@@ -1,0 +1,96 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "I fioi",
+      "publisher": "Andrea Vescovi",
+      "tray_image_file": "fioi.png",
+      "image_data_version":"1",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "maso.webp",
+          "emojis": ["\uD83C\uDF89"]
+        },
+        {
+          "image_file": "ferrara.webp",
+          "emojis": ["\uD83D\uDE2C"]
+        },
+        {
+          "image_file": "ferrara2.webp",
+          "emojis": ["\uD83D\uDE42"]
+        },
+        {
+          "image_file": "beda.webp",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "beda2.webp",
+          "emojis": ["😍"]
+        },
+        {
+          "image_file": "annicchia.webp",
+          "emojis": ["😠"]
+        },
+        {
+          "image_file": "jonny.webp",
+          "emojis": ["😗"]
+        },
+        {
+          "image_file": "vesco.webp",
+          "emojis": ["\uD83D\uDE0C"]
+        },
+        {
+          "image_file": "davide.webp",
+          "emojis": ["🍸"]
+        },
+        {
+          "image_file": "michael.webp",
+          "emojis": ["\uD83E\uDD28"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Citazioni",
+      "publisher": "Andrea Vescovi",
+      "tray_image_file": "cit.png",
+      "image_data_version":"1",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "padovano1.webp",
+          "emojis": ["😃"]
+        },
+        {
+          "image_file": "padovano2.webp",
+          "emojis": ["\uD83D\uDE04"]
+        },
+        {
+          "image_file": "he-man.webp",
+          "emojis": ["😐"]
+        },
+        {
+          "image_file": "pata.webp",
+          "emojis": ["👌"]
+        },
+        {
+          "image_file": "69.webp",
+          "emojis": ["😆"]
+        },
+        {
+          "image_file": "veneto.webp",
+          "emojis": ["😏"]
+        }
+      ]
+    }
+  ]
+}
