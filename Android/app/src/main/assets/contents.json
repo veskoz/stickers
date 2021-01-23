@@ -6,7 +6,7 @@
       "identifier": "1",
       "name": "I fioi",
       "publisher": "Andrea Vescovi",
-      "tray_image_file": "fioi.png",
+      "tray_image_file": "_fioi.png",
       "image_data_version":"1",
       "publisher_email":"",
       "publisher_website": "",
@@ -14,16 +14,8 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "maso.webp",
-          "emojis": ["\uD83C\uDF89"]
-        },
-        {
-          "image_file": "ferrara.webp",
-          "emojis": ["\uD83D\uDE2C"]
-        },
-        {
-          "image_file": "ferrara2.webp",
-          "emojis": ["\uD83D\uDE42"]
+          "image_file": "annicchia.webp",
+          "emojis": ["😠"]
         },
         {
           "image_file": "beda.webp",
@@ -34,24 +26,40 @@
           "emojis": ["😍"]
         },
         {
-          "image_file": "annicchia.webp",
-          "emojis": ["😠"]
+          "image_file": "davide.webp",
+          "emojis": ["🍸"]
+        },
+        {
+          "image_file": "ferrara.webp",
+          "emojis": ["\uD83D\uDE2C"]
+        },
+        {
+          "image_file": "ferrara2.webp",
+          "emojis": ["\uD83D\uDE42"]
+        },
+        {
+          "image_file": "ferrara3.webp",
+          "emojis": ["\uD83D\uDE42"]
+        },
+        {
+          "image_file": "ferrara4.webp",
+          "emojis": ["\uD83D\uDE42"]
         },
         {
           "image_file": "jonny.webp",
           "emojis": ["😗"]
         },
         {
-          "image_file": "vesco.webp",
-          "emojis": ["\uD83D\uDE0C"]
-        },
-        {
-          "image_file": "davide.webp",
-          "emojis": ["🍸"]
+          "image_file": "maso.webp",
+          "emojis": ["\uD83C\uDF89"]
         },
         {
           "image_file": "michael.webp",
           "emojis": ["\uD83E\uDD28"]
+        },
+        {
+          "image_file": "vesco.webp",
+          "emojis": ["\uD83D\uDE0C"]
         }
       ]
     },
@@ -67,6 +75,14 @@
       "license_agreement_website": "",
       "stickers": [
         {
+          "image_file": "69.webp",
+          "emojis": ["😆"]
+        },
+        {
+          "image_file": "he-man.webp",
+          "emojis": ["😐"]
+        },
+        {
           "image_file": "padovano1.webp",
           "emojis": ["😃"]
         },
@@ -75,16 +91,8 @@
           "emojis": ["\uD83D\uDE04"]
         },
         {
-          "image_file": "he-man.webp",
-          "emojis": ["😐"]
-        },
-        {
           "image_file": "pata.webp",
           "emojis": ["👌"]
-        },
-        {
-          "image_file": "69.webp",
-          "emojis": ["😆"]
         },
         {
           "image_file": "veneto.webp",
